@@ -1,0 +1,48 @@
+h3 {
+    margin-left: 10px;
+}
+
+.saisieTest {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+#tentative {
+    width: 215px;
+}
+
+#bouton {
+    
+}
+
+#error{
+    
+    margin-left: 10px;
+    font-style: italic;
+}
+
+.comments {
+    margin-top: 25px;
+    margin-left: 10px;
+}
+
+#resultat {
+    
+    border : dashed 1px black;
+    padding: 5px;
+}
+
+#nbrEssai {
+    
+    border : dashed 1px black;
+    margin-left: 25px;
+    padding: 5px;
+}
+
+
+#testJeu {
+    
+    margin-left: 10px;
+    margin-top: 25px;
+    font-style: italic;
+}
