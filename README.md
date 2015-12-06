@@ -1,4 +1,4 @@
-### Challenge : Jeu du + ou du -
+### Challenge : Jeu du   "+"  ou du   "-"
 
 <br/>
 
